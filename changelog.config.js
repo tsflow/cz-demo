@@ -36,7 +36,7 @@ module.exports = {
         },
         "docs": {
             "description": "仅仅是文档修改",
-            "emoji": "✏️",
+            "emoji": "🍈",
             "value": "文档修改"
         },
         "feat": {
